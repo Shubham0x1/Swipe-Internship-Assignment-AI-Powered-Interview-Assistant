@@ -82,11 +82,11 @@ Build a React app that acts as an AI-powered interview assistant. Key features i
 
 4. Open http://localhost:3000 in your browser.
 
-📄 License
+## 📄 License
 
 This project is for educational/assignment purposes.
 
-✨ Author
+## ✨ Author
 
 Shubham Gusain
 GitHub: Shubham0x1
