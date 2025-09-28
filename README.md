@@ -3,6 +3,8 @@
 A React-based AI-powered interview assistant designed to simulate real-time interviews for full-stack roles. This app provides both **Interviewee (chat)** and **Interviewer (dashboard)** tabs, keeping data synchronized and persistent.
 
 ---
+## 🌐 Live Demo
+🔗 [AI Powered Interview](https://swipe-internship-assignment-ai-powered-interview-70ialpaj5.vercel.app/)
 
 ## 🎯 Goal
 Build a React app that acts as an AI-powered interview assistant. Key features include:
