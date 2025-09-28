@@ -73,11 +73,20 @@ Build a React app that acts as an AI-powered interview assistant. Key features i
    ```bash
    git clone https://github.com/Shubham0x1/Swipe-Internship-Assignment-AI-Powered-Interview-Assistant.git
    cd Swipe-Internship-Assignment-AI-Powered-Interview-Assistant
-2. **Install dependencies
+2. Install dependencies
    ```bash
      npx pnpm install
-3. **Run the development server
+3. Run the development server
    ```bash
     npx pnpm dev
 
 4. Open http://localhost:3000 in your browser.
+
+📄 License
+
+This project is for educational/assignment purposes.
+
+✨ Author
+
+Shubham Gusain
+GitHub: Shubham0x1
